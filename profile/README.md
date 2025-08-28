@@ -16,7 +16,7 @@
 
 ## 🌐 What is ACME Corp?
 
-ACME Corp is a *fictional but fully functional* software vendor we created to mimic the challenges faced by real‑world engineering teams:
+[ACME Corp](https://acmecorp.live) is a *fictional but fully functional* software vendor we created to mimic the challenges faced by real‑world engineering teams:
 
 * **Multi‑cloud reality** – Customers ask ACME to deploy workloads in **AWS, GCP, Azure or DigitalOcean**, sometimes in the customer’s own account.
 * **Poly‑glot stack** – Code bases span **Node.js, Go, Python, Kotlin, Rust, React, Next.js** and more.
